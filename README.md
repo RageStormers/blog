@@ -1,4 +1,4 @@
-blog
+Blog
 ====
 
-Rage Stormers blog
+Rage Stormers Blog
